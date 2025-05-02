@@ -42,12 +42,13 @@
 
 ## 🛠 Open Source Projects
 
+- [Morse CNN Model](https://github.com/Ily17as/morse_CNN-model) — CNN-based Morse code decoder
 - [Forbes Salary](https://github.com/Ily17as/forbes_salary) — industry salary analysis  
 - [Evaluating Molecules](https://github.com/Ily17as/Evaluating_molecules) — molecular toxicity evaluation  
 - [Mini-Translator](https://github.com/Ily17as/Mini-translater-NLP-mt5) — MT5-based translation tool  
 - [Analysis Projects](https://github.com/Ily17as/Analysis_project) — A/B testing, segmentation  
 - [PariMate](https://github.com/ArthurBabkin/Parimate) — analytics platform  
-- [Image Classifier on Kubernetes](https://github.com/N4RLY/Distributed-Image-Classifier-on-Kubernetes)
+- [Image Classifier on Kubernetes](https://github.com/N4RLY/distributed-image-classifier-on-kuber) — the image-classifier project with HPA for load-balancing
 
 ---
 
