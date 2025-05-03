@@ -2,7 +2,10 @@
 
 🎓 Student at Innopolis University  
 - Specializing in Machine Learning, NLP, and System Architecture  
-- Building LLM solutions, backend services, and analytical systems  
+- Building LLM solutions, backend services, and analytical systems
+- I also study business, sales, analytics and entrepreneurship
+- Check out my startup: [Fin Ans](https://t.me/f_i_n_a_ns)
+    
 📍 Innopolis / Kazan
 
 ---
@@ -25,8 +28,9 @@
 
 ## 🎓 Education
 
-- **Innopolis University** — BSc in Data Science & AI (2023–2026)  
-- **AI & Big Data Analytics**, Advanced course (2025)
+- **Innopolis University** — BSc in Applied Data Science & AI (2023–2026)  
+- **Innopolis University**, Advanced course "AI & Big Data Analytics" (2025)
+- **International Institute of Management Associations Entrepreneurs**, Advanced course ”Artificial intelligence project activity” (2025)
 
 ---
 
