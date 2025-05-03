@@ -53,6 +53,7 @@
 - [Analysis Projects](https://github.com/Ily17as/Analysis_project) — A/B testing, segmentation  
 - [PariMate](https://github.com/ArthurBabkin/Parimate) — analytics platform  
 - [Image Classifier on Kubernetes](https://github.com/N4RLY/distributed-image-classifier-on-kuber) — the image-classifier project with HPA for load-balancing
+- [Predicting Seasons from Power Consumption in Denmark](https://github.com/Ily17as/predict-season-power-denmark) — deep learning models classify seasons of the year (winter, spring, summer, autumn) based on daily power consumption and renewable energy production in Denmark 
 
 ---
 
