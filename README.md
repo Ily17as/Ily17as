@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Ilyas Galiev
 
 🎓 Student at Innopolis University  
-🧠 Specializing in Machine Learning, NLP, and System Architecture  
-🏗 Building LLM solutions, backend services, and analytical systems  
+- Specializing in Machine Learning, NLP, and System Architecture  
+- Building LLM solutions, backend services, and analytical systems  
 📍 Innopolis / Kazan
 
 ---
@@ -30,7 +30,7 @@
 
 ---
 
-## 🧰 Skills
+## Skills
 
 **Languages**: Python, C++, Java  
 **ML/DS**: sklearn, XGBoost, Catboost, LangChain, NLP, LLM  
@@ -54,10 +54,10 @@
 
 ## 🏆 Achievements
 
-🏅 Winner of ADME International Hackathon  
-🎓 Raisa RT and PGA Scholarship recipient  
-📜 Co-author of two patents  
-🥇 Winner of math and informatics olympiads
+- Winner of ADME International Hackathon  
+- Raisa RT and PGA Scholarship recipient  
+- Co-author of two patents  
+- Winner of math and informatics olympiads
 
 ---
 
