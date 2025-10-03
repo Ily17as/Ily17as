@@ -1,80 +1,114 @@
-# 👋 Hi, I'm Ilyas Galiev
+# 🚀 InnovaTech — студия разработки
 
-🎓 Student at Innopolis University  
-- Specializing in Machine Learning, NLP, and System Architecture  
-- Building LLM solutions, backend services, and analytical systems
-- I also study business, sales, analytics and entrepreneurship
-- Check out my startup: [Fin Ans](https://t.me/f_i_n_a_ns)
-    
-📍 Innopolis / Kazan
+Мы проектируем и запускаем технологические решения: от лендингов и CRM до ML/LLM-сервисов и высоконагруженных backend-систем. Делаем быстро, прозрачно и инженерно аккуратно.
+
+> Фокус: AI-автоматизация, интеграция LLM, backend/API, аналитические системы, MLOps.
 
 ---
 
-## 💼 Experience
+## 🔧 Что мы делаем
 
-- **ML Developer / System Architect @ AIWW-LLM-agent (2024–2025)**  
-  Designed architecture for an analytics system using LLM and LangGraph
+- **AI и LLM**
+  - Чат-боты, ассистенты, агенты (LangChain/LangGraph)
+  - Классификация, извлечение сущностей, поиск по базе знаний (RAG)
+  - Автоматизация бизнеспроцессов с LLM и оркестрацией диалогов
 
-- **Data Analyst Intern @ Yandex (2024)**  
-  SQL, DataLens, Python pipelines, content analytics, visualization
+- **Backend и интеграции**
+  - REST/GraphQL API, FastAPI/Flask
+  - Интеграции с CRM, платёжками, внешними API
+  - Очереди задач, планировщики, webhooks
 
-- **ML Engineer @ AI Sales Bot (2024)**  
-  FastAPI backend, CRM + LLM integration, CI/CD, user flow control
+- **Data/ML**
+  - ETL-пайплайны, аналитические витрины
+  - Модели: sklearn/XGBoost/CatBoost/Deep Learning
+  - A/B-тесты, дешборды, отчётность
 
-- **ML Engineer @ DeepLit (2024)**  
-  LLM text classification, LangChain, multi-component architecture
+- **MLOps и инфраструктура**
+  - Docker/Compose, CI/CD, мониторинг
+  - Развёртывание в облаках и on-prem
+  - Управление экспериментами и версиями данных
 
----
-
-## 🎓 Education
-
-- **Innopolis University** — BSc in Applied Data Science & AI (2023–2026)  
-- **Innopolis University**, Advanced course "AI & Big Data Analytics" (2025)
-- **International Institute of Management Associations Entrepreneurs**, Advanced course ”Artificial intelligence project activity” (2025)
-
----
-
-## Skills
-
-**Languages**: Python, C++, Java  
-**ML/DS**: sklearn, XGBoost, Catboost, LangChain, NLP, LLM  
-**Databases**: PostgreSQL, MongoDB, SQLite, ChromaDB, FAISS  
-**Visualization**: Power BI, matplotlib, seaborn  
-**Tools**: FastAPI, Flask, Git, Docker, CI/CD, UML, SCRUM, A/B Testing
+- **Веб и продукты**
+  - Лэндинги и кабинеты
+  - Дизайн-системы и UI-кит
+  - SEO/аналитика/события
 
 ---
 
-## 🛠 Open Source Projects
+## 🧰 Стек
 
-- [Morse CNN Model](https://github.com/Ily17as/morse_CNN-model) — CNN-based Morse code decoder
-- [Forbes Salary](https://github.com/Ily17as/forbes_salary) — industry salary analysis  
-- [Evaluating Molecules](https://github.com/Ily17as/Evaluating_molecules) — molecular toxicity evaluation  
-- [Mini-Translator](https://github.com/Ily17as/Mini-translater-NLP-mt5) — MT5-based translation tool  
-- [Analysis Projects](https://github.com/Ily17as/Analysis_project) — A/B testing, segmentation  
-- [PariMate](https://github.com/ArthurBabkin/Parimate) — analytics platform  
-- [Image Classifier on Kubernetes](https://github.com/N4RLY/distributed-image-classifier-on-kuber) — the image-classifier project with HPA for load-balancing
-- [Predicting Seasons from Power Consumption in Denmark](https://github.com/Ily17as/predict-season-power-denmark) — deep learning models classify seasons of the year (winter, spring, summer, autumn) based on daily power consumption and renewable energy production in Denmark 
+**Языки:** Python, C++, Java  
+**ML/DS:** scikit-learn, XGBoost, CatBoost, NLP, LLM, LangChain/LangGraph  
+**БД:** PostgreSQL, MongoDB, SQLite, ChromaDB, FAISS  
+**Визуализация:** Power BI, matplotlib, seaborn  
+**Инструменты:** FastAPI, Flask, Git, Docker, CI/CD, UML, SCRUM, A/B-testing
 
 ---
 
-## 🏆 Achievements
+## 🗺️ Как мы работаем
 
-- Winner of ADME International Hackathon  
-- Raisa RT and PGA Scholarship recipient  
-- Co-author of two patents  
-- Winner of math and informatics olympiads
+1) **Диагностика** — цели, метрики, ограничения  
+2) **Дизайн решения** — архитектура, план спринтов, риски  
+3) **MVP** — быстрый инкремент с измеримым эффектом  
+4) **Релиз** — прод, мониторинг, алерты  
+5) **Итерации** — развитие по данным и обратной связи
 
----
-
-## 📊 GitHub Stats
-
-![Ily17as's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ily17as&show_icons=true&theme=gruvbox)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ily17as&layout=compact&theme=gruvbox)
+**Коммуникации:** еженедельные демо, таск-трекер, общий дашборд метрик.
 
 ---
 
-## 📫 Contacts
+## 📦 Кейсы и открытые проекты
 
-- Telegram: [@ilyasGaliev](https://t.me/ilyasGaliev)  
-- Email: ilyas_gal@internet.ru  
-- GitHub: [github.com/Ily17as](https://github.com/Ily17as)
+- [Morse CNN Model](https://github.com/Ily17as/morse_CNN-model) — декодер азбуки Морзе на CNN  
+- [Forbes Salary](https://github.com/Ily17as/forbes_salary) — анализ зарплат по индустриям  
+- [Evaluating Molecules](https://github.com/Ily17as/Evaluating_molecules) — токсичность молекул  
+- [Mini-Translator (MT5)](https://github.com/Ily17as/Mini-translater-NLP-mt5) — переводчик на MT5  
+- [Analysis Projects](https://github.com/Ily17as/Analysis_project) — A/B, сегментации  
+- [PariMate](https://github.com/ArthurBabkin/Parimate) — аналитическая платформа  
+- [Image Classifier on Kubernetes](https://github.com/N4RLY/distributed-image-classifier-on-kuber) — HPA/автомасштабирование  
+- [Seasons by Power in Denmark](https://github.com/Ily17as/predict-season-power-denmark) — DL-классификация сезонов по энергопрофилю
+
+---
+
+## 🏆 Доверяют компетенции
+
+- Победитель ADME International Hackathon  
+- Стипендии Raisa RT и PGA  
+- Соавтор 2 патентов  
+- Призёр олимпиад по математике и информатике
+
+---
+
+## 🤝 Форматы сотрудничества
+
+- **Fixed-price** для чётко определённых задач  
+- **Time & Materials** для исследовательских/длинных проектов  
+- **Discovery-спринт (1–2 недели)**: аудит, архитектура, дорожная карта
+
+Запросить оценку: откройте Issue или напишите нам в Telegram.
+
+---
+
+## 📊 Метрики качества
+
+- SLA по инцидентам и отклику  
+- Code Review и auto-lint/CI  
+- Покрытие тестами ключевых модулей  
+- Прозрачность по срокам и рискам
+
+---
+
+## 🧪 Быстрый старт (пример для API)
+
+```bash
+# Клонировать проект
+git clone https://github.com/<org>/<repo>.git
+cd <repo>
+
+# Запуск локально
+pip install -r requirements.txt
+uvicorn app.main:app --reload
+
+# Docker
+docker build -t innovatech/app .
+docker run -p 8000:8000 innovatech/app
